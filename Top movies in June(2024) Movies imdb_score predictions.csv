@@ -1,0 +1,11 @@
+title,released_date,type,age_certification,runtime,genres,production_countries,imdb_scores_predictions
+Bridgerton,May 16th,SHOW,TV-MA,57,"['romance', 'drama']",['US'],7.0
+School of Magical Animals 2,June 7th,MOVIE,PG,104,"['family', 'comedy', 'fantasy']",['US'],6.0
+Bad Boys: Ride or Die,June 7th,MOVIE,,110,"['comedy', 'action'] ",['US'],6.0
+Hitler and the Nazis: Evil on Trial,June 5th,SHOW,,60,"['documentation', 'history']",['US'],8.0
+Under Paris,June 5th,MOVIE,R,101,"['action', 'drama', 'horror']",['FR'],6.0
+Supacell,June 27th,SHOW,,60,"['action', 'drama']",['GB'],7.0
+Gangs of Galicia,June 21st,SHOW,,60,"['crime', 'drama', thriller] ",['ES'],7.0
+Trigger Warning,June 21st,MOVIE,,106,"['action', 'thriller']",['US'],6.0
+The Prince of Nonna’s Inheritance ,June 4th,SHOW,,60,['comedy'],['IT'],7.0
+A Family Affair,June 28th,MOVIE,PG-13,72,"['comedy', 'romance']",['US'],6.0
